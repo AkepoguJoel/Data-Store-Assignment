@@ -3,7 +3,7 @@ import threading
 from threading import*
 import time
 
-data_store={} #'d' is the dictionary in which we store data
+data_store={} #'data_store' is the dictionary in which we store data
 
 #for create operation
 #use syntax "create(key_name,value,timeout_value)" timeout is optional you can continue by passing two arguments without timeout
